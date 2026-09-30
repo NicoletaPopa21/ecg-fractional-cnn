@@ -1,8 +1,7 @@
 # ecg-fractional-cnn
 Advanced Deep Learning for ECG Arrhythmia Detection using Fractional Calculus
 
-The project uses the ECG Heartbeat Classification dataset (Kachuee et al., 2018), available on arXiv: https://arxiv.org/abs/1805.00794
-
+The project uses Mohammad Kachuee, Shayan Fazeli, and Majid Sarrafzadeh. "ECG Heartbeat Classification: A Deep Transferable Representation." arXiv preprint arXiv:1805.00794 (2018).
 This repository implements a modular Deep Learning pipeline for detecting heart arrhythmias from ECG signals (MIT-BIH dataset). It utilizes 1D Convolutional Neural Networks (CNNs) enhanced by mathematical fractional calculus algorithms (Caputo and Grünwald-Letnikov derivatives) to amplify pathological signal features.
 
 ** Key Features & Performance**
